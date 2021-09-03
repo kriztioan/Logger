@@ -1,0 +1,124 @@
+body.main{
+  background: #c0c0c0;
+  color: #000000;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 10pt;
+  margin: 0pt;
+}
+
+a:link{
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  background: #c0c0c0;
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px;
+}
+          
+a:active{ 
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  background: #c0c0c0;
+  border-style: solid;
+  border-color: #000000;
+  border-width : 1px;
+}
+
+a:visited{
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  background: #c0c0c0;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+} 
+
+a:hover{
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  background: #c0c0c0;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+.entry{
+  font-family: Helvetica;
+  border-style:solid;
+  border-color:#000000;
+  border-width: 2px;
+  background: #ffd700;
+}
+
+.date{
+  color : #000000;
+  font-size: 20pt;
+  font-family: Helvetica;  
+}
+
+.content{
+  color: #000000;
+  border-style: none;
+  font-family: Helvetica;
+  font-size: 10pt;
+  background: #f5f5f5;
+  font-weight: normal;
+}
+
+.menu{
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  background: #ffd700;
+  font-family: Helvetica;
+  font-size: 10pt;
+  font-weight: normal;
+}
+
+.highlight{
+  background-color: yellow;
+}
+
+.setup{
+  color: #000000;
+  background-color: #c0c0c0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  width: 10cm;
+}
+
+.select{
+  color: #000000;
+  background-color: #c0c0c0;
+}
+
+.wordprocessor{
+  width: 550px;
+  height: 450px;
+  border-style: groove;
+  border-color: #000000;
+  border-width: 3px;
+  background-color:white; 
+  font-family: Helvetica;
+  font-size: 10pt;
+  padding: 10pt;
+}
+
+.search{
+  width: 6cm;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  background-color: #c0c0c0;
+  color : #000000;
+}
